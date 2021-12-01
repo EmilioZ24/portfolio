@@ -1,0 +1,9 @@
+
+.desktop{
+  width: 205vmin;
+  height: 98vmin;
+  border-radius: 5%;
+  background-color: #1446A0 ;
+  display: flex;
+  justify-content: center
+}
