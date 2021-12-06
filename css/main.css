@@ -1,17 +1,9 @@
 
 .desktop{
-  width: 204vmin;
+  width: 205vmin;
   height: 98vmin;
-  border-radius: 5% 5% 0% 0%;
+  border-radius: 5%;
   background-color: #1446A0 ;
   display: flex;
   justify-content: center
-}
-.taskbar{
-  background-color: #EBEBD3;
-  width: 204vmin;
-  height: 4vmin;
-}
-.about{
-  
 }
