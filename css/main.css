@@ -1,16 +1,22 @@
 
 .desktop{
   width: 205vmin;
-  height: 98vmin;
-  border-radius: 5%;
+  height: 96vmin;
+  border-radius: 5% 5% 0% 0%;
   background-color: #1446A0 ;
   display: flex;
   justify-content: center
 }
 .taskbar{
   background-color: #EBEBD3;
-  width: 204vmin;
-  height: 4vmin;
+  width: 205vmin;
+  height: 3vmin;
+}
+.hometext{
+font-size: 200px;
+font-style: normal;
+font-family: 'Saira Condensed', sans-serif;
+text-align: center;
 }
 .about{
 
