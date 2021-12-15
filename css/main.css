@@ -25,6 +25,7 @@ font-family: 'Saira Condensed', sans-serif;
 text-align: center;
 display: flex;
 align-items: center;
+color: #DB3069;
 }
 .about{
   background-color: white;
@@ -46,11 +47,32 @@ align-items: center;
     0 100%      /* bottom left */
   );
 }
+.border1{
+  height: 3vmin;
+  width: 90vmin;
+  background-color:#EBEBD3;
+  transform: translate(50%,350%);
+  font-family: 'Roboto Mono', monospace;
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Saira Condensed', sans-serif;
+  font-size: 15px;
+}
 .window{
 height: 45vmin;
 width: 90vmin;
+background-color: #DB3069;
+transform: translate(-50%,30%);
+font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Slab', serif;
+font-family: 'Saira Condensed', sans-serif;
+font-size: 15px;
+text-align: left;
+}
+.window2{
+height: 45vmin;
+width: 90vmin;
 background-color: #F5D547;
-transform: translate(0%,40%);
+transform: translate(-50%,30%);
 font-family: 'Roboto Mono', monospace;
 font-family: 'Roboto Slab', serif;
 font-family: 'Saira Condensed', sans-serif;
